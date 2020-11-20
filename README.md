@@ -1,0 +1,2 @@
+# buildazurepipelines
+terraform for buildazurepipelines
